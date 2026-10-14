@@ -1,7 +1,7 @@
 package com.pluralsight;
 
 /**
- * Excercise 1 - Workbook 1C
+ * Excercise 2 - Workbook 1C
  * @author: Behlul Vardal
  */
 public class VariableApp {
